@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CAB201._ObjectModels;
 
-namespace CAB201
+namespace CAB201.AircraftTypes
 {
     class Light_Aircraft : Aircraft
     {

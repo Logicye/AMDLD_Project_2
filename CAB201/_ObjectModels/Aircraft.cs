@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CAB201
+namespace CAB201._ObjectModels
 {
     class Aircraft
     {
